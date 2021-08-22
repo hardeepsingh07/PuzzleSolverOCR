@@ -19,4 +19,8 @@ class MainProcessor: BaseProcessor<MainEvent, MainState, MainEffect>() {
             }
         }
     }
+
+    private fun test() {
+
+    }
 }
